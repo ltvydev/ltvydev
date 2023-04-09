@@ -3,7 +3,7 @@
 im currently learning:
   - html
   - css
- and i want to learn:
+and i want to learn:
   - js
   - py
 
