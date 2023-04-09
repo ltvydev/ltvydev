@@ -2,7 +2,7 @@
 
 im currently learning:
   - html
-  - css
+  - css <br>
 and i want to learn:
   - js
   - py
